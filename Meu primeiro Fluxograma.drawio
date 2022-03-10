@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T22:59:17.492Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ankEmfAkVDcQMnOf_TK4" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T23:02:58.475Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="BZUIzN5wjXDsMebAejeV" version="17.1.1" type="github">
   <diagram id="gChGrbSCKXLXu62mFakp" name="Page-1">
     <mxGraphModel dx="1021" dy="567" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="bL8-K7mxWeau8P830rif-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="eOybXmLH0Cuv-CmlZ1wJ-10" target="bL8-K7mxWeau8P830rif-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eOybXmLH0Cuv-CmlZ1wJ-10" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Data inválida. Cadastro não permitido.&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="eOybXmLH0Cuv-CmlZ1wJ-10" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Data inválida! Cadastro não permitido.&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="275.75" y="445.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eOybXmLH0Cuv-CmlZ1wJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=line;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=10;fontColor=#000000;entryX=0.498;entryY=0.185;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eOybXmLH0Cuv-CmlZ1wJ-22" target="eOybXmLH0Cuv-CmlZ1wJ-24" edge="1">
@@ -69,7 +69,7 @@
         <mxCell id="bL8-K7mxWeau8P830rif-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="eOybXmLH0Cuv-CmlZ1wJ-31" target="bL8-K7mxWeau8P830rif-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eOybXmLH0Cuv-CmlZ1wJ-31" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; Evento não permitido para menores de 18 anos&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="eOybXmLH0Cuv-CmlZ1wJ-31" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; Evento não permitido para menores de 18 anos.&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="275.75" y="784" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eOybXmLH0Cuv-CmlZ1wJ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=line;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;entryX=0.499;entryY=0.192;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eOybXmLH0Cuv-CmlZ1wJ-33" target="eOybXmLH0Cuv-CmlZ1wJ-35" edge="1">
@@ -102,16 +102,16 @@
         <mxCell id="bL8-K7mxWeau8P830rif-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="bL8-K7mxWeau8P830rif-6" target="bL8-K7mxWeau8P830rif-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bL8-K7mxWeau8P830rif-6" value="Não será possível realizar o cadastro. Limite de vagas excedido!" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="275.75" y="1240" width="113.25" height="69" as="geometry" />
+        <mxCell id="bL8-K7mxWeau8P830rif-6" value="Cadastro finalizado!" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="275.75" y="1245" width="98.25" height="58" as="geometry" />
         </mxCell>
         <mxCell id="bL8-K7mxWeau8P830rif-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="bL8-K7mxWeau8P830rif-8" target="bL8-K7mxWeau8P830rif-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bL8-K7mxWeau8P830rif-8" value="Cadastro finalizado!" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="96" y="1386" width="100" height="60" as="geometry" />
+        <mxCell id="bL8-K7mxWeau8P830rif-8" value="&amp;nbsp; &amp;nbsp;Não será possível realizar o cadastro. Limite de vagas excedido!" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1386" width="122" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="bL8-K7mxWeau8P830rif-11" value="Retornar ao Inicio." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="bL8-K7mxWeau8P830rif-11" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="96" y="1502" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bL8-K7mxWeau8P830rif-13" value="&lt;span&gt;Retornar ao Inicio.&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
